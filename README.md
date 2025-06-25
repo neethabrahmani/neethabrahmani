@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Neetha Brahmani
 
-<!--
-**neethabrahmani/neethabrahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student at VIT  
+💡 Passionate about Web Development, DSA, and solving real-world problems  
+🌱 Currently improving my coding skills and building impactful projects  
+💬 Ask me about Python, Java, Web Dev, and Git  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/neetha-brahmani-405a022a0)
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Languages: Python, Java, HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+- Learning: React.js, Node.js, MongoDB, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Neetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neethabrahmani&show_icons=true&theme=tokyonight)
+
+## 📌 Pinned Repositories (coming soon!)
+- 🔹 Portfolio Website (HTML/CSS/JS)
+- 🔹 DSA Practice
+- 🔹 Learning Projects (ML/Web)
